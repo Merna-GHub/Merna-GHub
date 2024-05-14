@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://github.com/Merna-GHub/Intro/">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BmcjlzbDRiM3hydzlyeTd5NTJ3YXFiYjBzeHJwNG4xZWxzNWRjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elhg8PAHoNlFz5Pxx5/giphy.gif" 
-      alt="Logo" width="80" height="80">
+      alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Hi there!</h3>
