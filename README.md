@@ -1,29 +1,26 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
  <!-- <a href="https://github.com/Merna-GHub/Intro/">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BwajlqcXJydGg4d3kydWxhYXZ2bHM2NWVzcmN3cHI4eWFtdGhmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OK5LK5zLFfdm/giphy.gif" 
       alt="Logo" width="100%" height="20">
   </a>
  -->
-  <h3 align="left">Hala <img src="https://media.giphy.com/media/dWNtfE71HBbzn9VMcT/giphy.gif" alt="cat-waving" width="20" height="20"> 
-</h3> 
-  <p align="center">
-    
-  </p>
+  <h3 align="left">Hala <img src="https://media.giphy.com/media/dWNtfE71HBbzn9VMcT/giphy.gif" alt="cat-waving" width="20" height="20"> </h3> 
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
+<p style="font-family: console">My name is Merna Geyoushi, a senior .NET software engineer.</p>
 
 
 
 ### Technologies and Frameworks
 
-[![Angular][Angular.io]][Angular-url] [![.NET][NET.com]][NET-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url]
+[![.NET][NET.com]][NET-url] [![Angular][Angular.io]][Angular-url]
+<!-- [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url]-->
 
 
 <!-- CONTACT -->
