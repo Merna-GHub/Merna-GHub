@@ -1,26 +1,15 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Merna-GHub/Intro/">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BmcjlzbDRiM3hydzlyeTd5NTJ3YXFiYjBzeHJwNG4xZWxzNWRjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elhg8PAHoNlFz5Pxx5/giphy.gif" 
-      alt="Logo" width="120" height="120">
+ <!-- <a href="https://github.com/Merna-GHub/Intro/">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BwajlqcXJydGg4d3kydWxhYXZ2bHM2NWVzcmN3cHI4eWFtdGhmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OK5LK5zLFfdm/giphy.gif" 
+      alt="Logo" width="100%" height="20">
   </a>
-
-  <h3 align="center">Hi there!</h3>
-
+ -->
+  <h3 align="left">Hala <img src="https://media.giphy.com/media/dWNtfE71HBbzn9VMcT/giphy.gif" alt="cat-waving" width="20" height="20"> 
+</h3> 
   <p align="center">
     
   </p>
