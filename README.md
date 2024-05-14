@@ -25,10 +25,11 @@
 
 <!-- CONTACT -->
 ## Contact
-
+<!-- 
 Project Link: [https://github.com/Merna-GHub/Intro/](https://github.com/merna-ghub/Intro)
+<br/> -->
 <br/>
-<br/>
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -48,7 +49,7 @@ Project Link: [https://github.com/Merna-GHub/Intro/](https://github.com/merna-gh
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077B5
 [linkedin-url]: https://linkedin.com/in/mernageyoushi
 [product-screenshot]: images/screenshot.png
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
