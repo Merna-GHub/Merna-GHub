@@ -14,8 +14,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6287860-Happy-Cactus-D&psig=AOvVaw3bf0gRF_8OGgYfzq8qt5KM&ust=1715804778015000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjD5IT9jYYDFQAAAAAdAAAAABAQ" 
+  <a href="https://github.com/Merna-GHub/Intro/">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BmcjlzbDRiM3hydzlyeTd5NTJ3YXFiYjBzeHJwNG4xZWxzNWRjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elhg8PAHoNlFz5Pxx5/giphy.gif" 
       alt="Logo" width="80" height="80">
   </a>
 
