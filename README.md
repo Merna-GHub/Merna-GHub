@@ -41,7 +41,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/merna-ghub/Intro)
+Project Link: [https://github.com/Merna-GHub/Intro/](https://github.com/merna-ghub/Intro)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
