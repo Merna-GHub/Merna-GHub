@@ -32,10 +32,7 @@
 
 ### Technologies and Frameworks
 
-* [![Angular][Angular.io]][Angular-url]
-* [![.NET][NET.com]][NET-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+[![Angular][Angular.io]][Angular-url] [![.NET][NET.com]][NET-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url]
 
 
 <!-- CONTACT -->
