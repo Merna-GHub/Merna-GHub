@@ -25,9 +25,9 @@ Project Link: [https://github.com/Merna-GHub/Intro/](https://github.com/merna-gh
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+<!--
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
