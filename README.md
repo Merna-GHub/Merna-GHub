@@ -29,7 +29,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-5 years of experience and counting...
+
+
 
 ### Technologies and Frameworks
 
