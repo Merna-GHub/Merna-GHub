@@ -9,21 +9,20 @@
 -->
 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6287860-Happy-Cactus-D&psig=AOvVaw3bf0gRF_8OGgYfzq8qt5KM&ust=1715804778015000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjD5IT9jYYDFQAAAAAdAAAAABAQ" 
+      alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Hi there!</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    
   </p>
 </div>
 
@@ -47,11 +46,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About Me
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
-
-### Technology and Frameworks
+### Technologies and Frameworks
 
 * [![Angular][Angular.io]][Angular-url]
 * [![.NET][NET.com]][NET-url]
@@ -63,6 +60,8 @@
 ## Contact
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/merna-ghub/Intro)
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,7 +80,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/me
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/mernageyoushi
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
