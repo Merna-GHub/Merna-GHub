@@ -1,7 +1,8 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
-## Hala <img src="https://media.giphy.com/media/dWNtfE71HBbzn9VMcT/giphy.gif" alt="cat-waving" width="20" height="20">  
+## Hala :wave:
+<!--<img src="https://media.giphy.com/media/dWNtfE71HBbzn9VMcT/giphy.gif" alt="cat-waving" width="20" height="20">  -->
 
 
 <!-- ABOUT THE PROJECT -->
