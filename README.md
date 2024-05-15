@@ -11,7 +11,7 @@
 My name is Merna Geyoushi, a software engineer.
 
 
-
+<!--
 ### Technologies and Frameworks
 
 [![.NET][NET.com]][NET-url] [![Angular][Angular.io]][Angular-url]
