@@ -7,7 +7,7 @@
 <!-- ABOUT THE PROJECT -->
 ### About Me
 
-My name is Merna Geyoushi, a senior .NET software engineer.
+My name is Merna Geyoushi, a software engineer.
 
 
 
