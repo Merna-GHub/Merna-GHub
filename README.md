@@ -8,7 +8,7 @@
 <!-- ABOUT THE PROJECT -->
 ### About Me
 
-My name is Merna Geyoushi, a senior software engineer.
+My name is Merna Geyoushi, a senior software engineer from Egypt.
 
 
 <!--
