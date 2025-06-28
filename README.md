@@ -107,7 +107,7 @@ Project Link: [https://github.com/Merna-GHub/Intro/](https://github.com/merna-gh
 </p>
 
 <p>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Merna-GHub&show_icons=true&locale=en" alt="Merna-GHub" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Merna-GHub&show_icons=true&locale=en&layout=compact" alt="Merna-GHub" />
 </p>
 
