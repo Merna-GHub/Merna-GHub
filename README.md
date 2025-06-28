@@ -62,6 +62,10 @@ Project Link: [https://github.com/Merna-GHub/Intro/](https://github.com/merna-gh
   <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" alt=".netcore" width="auto" height="70"/> 
   </a> 
+
+   <a href="https://www.angular.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.prod.website-files.com/62876589ec366575fa309b1e/65cbc63ea7d2271f5898837b_Angular%20JS.svg" alt="angular" width="auto" height="70"/> </a> 
+  
   
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/1200px-Microsoft_SQL_Server_2025_icon.svg.png" alt="mssql" width="auto" height="70"/> </a> 
