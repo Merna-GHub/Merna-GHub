@@ -101,6 +101,13 @@ Project Link: [https://github.com/Merna-GHub/Intro/](https://github.com/merna-gh
 
 &nbsp;
 &nbsp;
+<h3 align="left">Leetcode Stats</h3>
+
+![](https://leetcard.jacoblin.cool/mrngsh?theme=radical&font=Chenla&ext=heatmap)
+
+
+&nbsp;
+&nbsp;
 <hr>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Merna-GHub&show_icons=true&locale=en&layout=compact" alt="Merna-GHub" />
