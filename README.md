@@ -57,20 +57,25 @@ Project Link: [https://github.com/Merna-GHub/Intro/](https://github.com/merna-gh
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
+  <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" alt=".netcore" width="auto" height="70"/> 
+  </a> 
   
-<a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer">
-<img src="https://miro.medium.com/v2/1*1K33MXoFTeWaWpBLkRRiOw.jpeg" alt=".netcore" width="auto" height="70"/> 
-</a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/1200px-Microsoft_SQL_Server_2025_icon.svg.png" alt="mssql" width="auto" height="70"/> </a> 
+  
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030217.png?f=webp" alt="postman" width="auto" height="70"/> 
+  </a> 
+  
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <img src="https://dt-cdn.net/hub/logos/redis-open-source.png" alt="redis" width="auto" height="70"/> 
+  </a> 
+  
+  <a href="https://www.hangfire.io/" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nF5ZgK1KJhtzBwuVrrT5f60WbD1Ri_lSGA&s" alt="hangfire" width="auto" height="70"/> 
+  </a> 
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/1200px-Microsoft_SQL_Server_2025_icon.svg.png" alt="mssql" width="auto" height="70"/> </a> 
-
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030217.png?f=webp" alt="postman" width="auto" height="70"/> 
-</a> 
-
-<a href="https://redis.io/" target="_blank" rel="noreferrer">
-<img src="https://dt-cdn.net/hub/logos/redis-open-source.png" alt="redis" width="auto" height="70"/> 
-</a> 
-
+</p>
