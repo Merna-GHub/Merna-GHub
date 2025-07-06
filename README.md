@@ -56,7 +56,7 @@ Project Link: [https://github.com/Merna-GHub/Intro/](https://github.com/merna-gh
 [JQuery-url]: https://jquery.com 
 
 &nbsp;
-<h3 align="left">Languages and Tools:</h3>
+###Languages and Tools:
 
 <p align="left"> 
   <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer">
