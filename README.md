@@ -44,14 +44,13 @@ My name is Merna Geyoushi, a senior software engineer from Egypt.
 
 <p>
   <a href="https://www.credly.com/badges/4b60570a-cafe-49fe-b9ee-4bf80729d129/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/c91c5a3f-1026-4d8a-9669-b94ec05636e9/badge-1_2x_1__1_.png" alt="Manara-software-engineer" width="150" height="auto"/> 
+    <img src="https://images.credly.com/images/c91c5a3f-1026-4d8a-9669-b94ec05636e9/badge-1_2x_1__1_.png" alt="Manara-software-engineer" width="100" height="auto"/> 
   </a> 
   <a href="https://www.credly.com/badges/e9c03bbd-e24c-417e-9b9b-f233bc79252c/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws-cloud-practitioner" width="150" height="auto"/> 
+    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws-cloud-practitioner" width="100" height="auto"/> 
   </a> 
  <a href="https://www.credly.com/badges/e9c03bbd-e24c-417e-9b9b-f233bc79252c/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" alt="aws-cloud-practitioner" 
-      width="150" height="auto"/> 
+    <img src="https://images.credly.com/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" alt="aws-cloud-practitioner" width="100" height="auto"/> 
   </a> 
 </p>
 
