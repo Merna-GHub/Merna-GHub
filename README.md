@@ -60,7 +60,6 @@ My name is Merna Geyoushi, a senior software engineer from Egypt.
 
 ![](https://leetcard.jacoblin.cool/mrngsh?theme=radical&font=Chenla&ext=heatmap)
 
-
 &nbsp;
 &nbsp;
 <hr>
