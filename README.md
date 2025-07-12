@@ -15,27 +15,27 @@ My name is Merna Geyoushi, a senior software engineer from Egypt.
 
 <p align="left"> 
   <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" alt=".netcore" width="100" height="auto"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" alt=".netcore" width="60" height="auto"/> 
   </a> 
 
   <a href="https://www.angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.prod.website-files.com/62876589ec366575fa309b1e/65cbc63ea7d2271f5898837b_Angular%20JS.svg" alt="angular" width="100" height="auto"/> 
+    <img src="https://cdn.prod.website-files.com/62876589ec366575fa309b1e/65cbc63ea7d2271f5898837b_Angular%20JS.svg" alt="angular" width="60" height="auto"/> 
   </a> 
   
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/1200px-Microsoft_SQL_Server_2025_icon.svg.png" alt="mssql" width="100" height="auto"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/1200px-Microsoft_SQL_Server_2025_icon.svg.png" alt="mssql" width="60" height="auto"/> 
   </a> 
   
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030217.png?f=webp" alt="postman" width="100" height="auto"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030217.png?f=webp" alt="postman" width="60" height="auto"/> 
   </a> 
   
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://dt-cdn.net/hub/logos/redis-open-source.png" alt="redis" width="100" height="auto"/> 
+    <img src="https://dt-cdn.net/hub/logos/redis-open-source.png" alt="redis" width="60" height="auto"/> 
   </a> 
   
   <a href="https://www.hangfire.io/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nF5ZgK1KJhtzBwuVrrT5f60WbD1Ri_lSGA&s" alt="hangfire" width="100" height="auto"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nF5ZgK1KJhtzBwuVrrT5f60WbD1Ri_lSGA&s" alt="hangfire" width="60" height="auto"/> 
   </a> 
 </p>
 
