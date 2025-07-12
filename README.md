@@ -55,20 +55,24 @@ My name is Merna Geyoushi, a senior software engineer from Egypt.
 </p>
 
 &nbsp;
+
 &nbsp;
+
 <h3 align="left">Leetcode Stats</h3>
 
 ![](https://leetcard.jacoblin.cool/mrngsh?theme=radical&font=Chenla&ext=heatmap)
 
 &nbsp;
+
 &nbsp;
+
 <hr>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Merna-GHub&show_icons=true&locale=en&layout=compact" alt="Merna-GHub" />
+  <img align="left" width="350" height:"auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=Merna-GHub&show_icons=true&locale=en&layout=compact" alt="Merna-GHub" />
 </p>
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Merna-GHub&show_icons=true&locale=en&layout=compact" alt="Merna-GHub" />
+  <img align="center" width="350" height:"auto" src="https://github-readme-stats.vercel.app/api?username=Merna-GHub&show_icons=true&locale=en&layout=compact" alt="Merna-GHub" />
 </p>
 
