@@ -4,7 +4,7 @@
 
 I'm a Senior Software Engineer with 8 years of experience in FullStack Software development. I specialise in building and deploying enterprise applications with .NET and Angular.
 
-Outside the enterprise world, you'll find me at the intersection of code and the visual — computer vision, motion, graphics.
+Outside the enterprise world, you'll find me at the intersection of code and the visual — AI, computer vision, motion, graphics.
 The kind of work that makes you stop and stare.
 
 ## Featured Projects
