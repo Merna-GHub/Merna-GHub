@@ -24,7 +24,7 @@ The kind of work that makes you stop and stare.
         </a> —A <b>much needed</b> bi-directional footnote plugin for summernote
       </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Merna-GHub/summernote-footnotes-nav?style=for-the-badge&labelColor=%23041a1b&color=2b9191&cacheSeconds=0%22"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Merna-GHub/summernote-footnotes-nav?style=for-the-badge&labelColor=%23041a1b&color=2b9191"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Merna-GHub/summernote-footnotes-nav?style=for-the-badge&labelColor=%23041a1b&color=2b9191&cacheSeconds=0%22"/></td>
     </tr>
 
   </tbody>
